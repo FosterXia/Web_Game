@@ -1,4 +1,4 @@
-​																Language: [English](#Web Game) / [中文](#网页小游戏)
+​																<p align="right">Other Language: [中文](#网页小游戏)<p>
 
 # Web Game
 
