@@ -8,7 +8,7 @@ This Web Game is called Fighting Balls, which makes people relax and helps peopl
 
 + Created the web services with **Full-Stack** frameworks and **Cloud** platform.
 + Produced the **Ajax**-based front-end with **JQuery, HTML/CSS/JavaScript** to write the font-end interface.
-+ Integrated the **Django** framework and implemented the code by **Python** to write the back-end interface, returning the data in **JSON**-format to the front-end.
++ Integrated the **Django** framework and implemented the code by **Python** to write the back-end, returning the data in **JSON**-format to the front-end.
 + Used **WebSocket** to facilitate the communication between front-end and back-end to enable people to chat online.
 + Adopted **Redis** as the database to store the information of ongoing game.
 + Created **Microservices** with **Thrift** to communicate between services to achieve the matching system.
